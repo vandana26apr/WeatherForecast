@@ -38,6 +38,7 @@ Running the app locally
 You'll need node and npm installed - first off, install the required dependencies:
 
 $ npm install
+
 To start up the application:
 
-$ npm run develop
+$ npm run test
